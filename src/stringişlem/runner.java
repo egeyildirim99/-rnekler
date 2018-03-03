@@ -14,7 +14,7 @@ public class runner {
 		//string uzunluðu bulmak
 		System.out.println(deðer.length()); 
 		
-		//stringin baþý ve sonundaki boþlýklarý kýrpmak  
+		//stringin baþý ve sonundaki boþlýklarý kýrpmak için kullanýlýr  
 
 		System.out.println(deðer.trim());
 		
@@ -67,6 +67,11 @@ public class runner {
 		System.out.println(deðer.split(",")[1]);
 		System.out.println(deðer.split(",")[2]);
 		
+		
+		
+		
+		
+		System.out.println("...program sonu...");
 		
 		
 		
